@@ -1,0 +1,23 @@
+category,item,planned_cost,actual_cost,purchased,source,notes
+PPE,Splash goggles,10,,no,,
+PPE,Nitrile gloves,12,,no,,
+PPE,Face shield,12,,no,,
+PPE,Apron,10,,no,,
+Equipment,DC power supply,40,,no,,key instrument
+Equipment,6061 aluminum sheet,15,,no,,
+Equipment,Cathode (lead/Al),10,,no,,
+Equipment,Racking wire (Ti/Al),8,,no,,
+Equipment,HDPE containers,12,,no,,
+Chemicals,Battery acid,12,,no,,buy in person
+Chemicals,Distilled water,5,,no,,
+Chemicals,Degreaser (TSP),6,,no,,
+Chemicals,Lye (optional etch),6,,no,,
+Chemicals,Baking soda,4,,no,,
+Chemicals,Anodizing dye (3 colors),22,,no,,
+Measurement,Digital calipers,15,,no,,or borrow lab's
+Measurement,Sandpaper assortment,10,,no,,
+Measurement,Kitchen scale,10,,no,,
+Measurement,Aquarium thermometer,6,,no,,
+Measurement,Phone macro lens,12,,no,,
+Optional,Air pump + air stone,12,,no,,improves uniformity
+,,TOTAL_PLANNED,,,,keep actuals under 150

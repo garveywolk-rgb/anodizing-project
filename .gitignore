@@ -1,0 +1,21 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Large raw image dumps — keep local, push only curated photos
+# (comment these out if you DO want all photos public)
+04_images/raw-dumps/
+
+# Scratch
+*.tmp
+scratch/

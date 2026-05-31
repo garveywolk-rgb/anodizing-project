@@ -1,0 +1,9 @@
+coupon_id,batch,date,alloy,length_in,width_in,thickness_in,surface_area_ft2,grit,acid_pct,bath_temp_C,target_voltage_V,observed_voltage_V,target_current_A,current_density_ASF,anodize_time_min,target_thickness_mil,dye_color,dye_time_min,dye_temp_C,seal_time_min,mean_gray_intensity,contact_angle_deg,wear_strokes,wear_delta,observations
+B0-1,B0,,6061,3.0,1.0,0.063,0.0417,400,15,20,15,,,12,45,,black,10,50,20,,,,,baseline reference
+B0-2,B0,,6061,3.0,1.0,0.063,0.0417,400,15,20,15,,,12,45,,black,10,50,20,,,,,baseline duplicate
+B1-1,B1,,6061,3.0,1.0,0.063,0.0417,400,15,20,10,,,12,45,,black,10,50,20,,,,,low voltage
+B1-2,B1,,6061,3.0,1.0,0.063,0.0417,400,15,20,10,,,12,45,,black,10,50,20,,,,,low voltage duplicate
+B2-1,B2,,6061,3.0,1.0,0.063,0.0417,400,15,20,20,,,12,45,,black,10,50,20,,,,,high voltage
+B2-2,B2,,6061,3.0,1.0,0.063,0.0417,400,15,20,20,,,12,45,,black,10,50,20,,,,,high voltage duplicate
+B5-1,B5,,6061,3.0,1.0,0.063,0.0417,220,15,20,15,,,12,45,,black,10,50,20,,,,,coarse surface prep
+B5-2,B5,,6061,3.0,1.0,0.063,0.0417,220,15,20,15,,,12,45,,black,10,50,20,,,,,coarse surface prep duplicate
