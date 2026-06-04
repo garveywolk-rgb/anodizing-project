@@ -2,7 +2,7 @@
 Plot results from the master dataset.
 
 Reads 03_data/processed/measurements.csv and writes figures to 04_images/figures/.
-Designed to run even when the dataset is only partly filled in — it skips plots it
+Designed to run even when the dataset is only partly filled in, so it skips plots it
 has no data for, so I can run it from day one and watch figures appear as data lands.
 
 Usage (from project root):
