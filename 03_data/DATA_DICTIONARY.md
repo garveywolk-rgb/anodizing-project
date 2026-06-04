@@ -1,4 +1,4 @@
-# Data Dictionary — measurements.csv
+# Data Dictionary: measurements.csv
 
 One row per coupon. Independent variables are things I set; dependent variables are things I
 measure. Blank cells get filled in as the project progresses.
@@ -8,7 +8,7 @@ measure. Blank cells get filled in as the project progresses.
 | coupon_id           | text    | Unique ID, `<batch>-<replicate>` (e.g. B2-1)                  |
 | batch               | text    | Batch group (B0, B1, …)                                       |
 | date                | date    | ISO date the coupon was run (YYYY-MM-DD)                      |
-| alloy               | text    | Aluminum alloy — held constant at 6061                        |
+| alloy               | text    | Aluminum alloy, held constant at 6063 (changed from 6061)     |
 | length_in           | number  | Coupon length, inches                                         |
 | width_in            | number  | Coupon width, inches                                          |
 | thickness_in        | number  | Coupon thickness, inches                                      |
