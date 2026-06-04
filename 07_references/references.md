@@ -3,17 +3,17 @@
 Running list of sources I'm actually using. Save PDFs in this folder where possible.
 
 ## Core process knowledge
-- **The 720 Rule** — 720 amp-minutes/ft² per mil of oxide; essentially Faraday's Law with unit
+- **The 720 Rule** : 720 amp-minutes/ft² per mil of oxide; essentially Faraday's Law with unit
   conversions. The backbone of targeting oxide thickness. (Westre; widely documented in the
   metal-finishing literature.)
-- **Type II vs. Type III anodizing** — dilute sulfuric at room temp (~12–20 V) vs. colder bath +
+- **Type II vs. Type III anodizing** : dilute sulfuric at room temp (~12–20 V) vs. colder bath +
   higher voltage/current density for thicker, harder "hardcoat." Temperature is the main lever.
-- **Concentration & temperature effects** — higher acid concentration and higher temperature both
+- **Concentration & temperature effects** : higher acid concentration and higher temperature both
   push toward more porous, softer coatings; temperature is the stronger influence.
 
 ## Safety
 - Standard safety data for sulfuric acid (handling, PPE, first aid). Add acid to water, never the
-  reverse. Look up my municipality's household hazardous-waste disposal guidance and cite it.
+  reverse.
 
 ## To add as I read
 - [ ] A primary source / textbook chapter on the porous alumina structure (pore formation mechanism)
