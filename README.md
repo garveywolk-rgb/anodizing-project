@@ -1,10 +1,9 @@
-# Anodizing Project — Master Workspace
+# Anodizing Project
 
 Everything for my self-directed anodized-aluminum study lives here: code, data, images,
-notebook, documents, and final outputs. One home, one structure, so nothing gets lost
-between now and November.
+notebook, documents, and final outputs.
 
-**Garvey Wolk — B.S. Materials Science & Engineering, Drexel University**
+**Garvey Wolk | B.S. Materials Science & Engineering | Drexel University**
 
 ---
 
@@ -20,7 +19,7 @@ between now and November.
 anodizing-project/
 ├── 00_admin/          Project plan, checklist, shopping list, budget tracker
 ├── 01_docs/           The full project document, write-up drafts, references I write
-├── 02_lab-notebook/   Dated session logs — the most important folder for interviews
+├── 02_lab-notebook/   Dated session logs, the most important folder for resume/interviews
 ├── 03_data/
 │   ├── raw/           Untouched data as collected (per-session CSVs, ImageJ exports)
 │   └── processed/     The cleaned master dataset + anything derived from raw
@@ -28,7 +27,7 @@ anodizing-project/
 │   ├── coupons/       Standardized photos of each finished coupon
 │   ├── contact-angle/ Side-on droplet photos for wettability
 │   ├── wear/          Before/after abrasion photos
-│   ├── failures/      Botched coupons — keep these, they're interview gold
+│   ├── failures/      Failed coupons, keep these, failures are okay!
 │   └── figures/       Generated plots for the report and poster
 ├── 05_code/
 │   ├── analysis/      Python: 720-rule calc, plotting, stats
@@ -42,7 +41,7 @@ anodizing-project/
 
 ## How to work in here (the rules I set for myself)
 
-1. **Raw data is sacred.** Once a file lands in `03_data/raw/`, I never edit it. All cleaning
+1. **Raw data is essential.** Once a file lands in `03_data/raw/`, I never edit it. All cleaning
    happens in code and writes to `03_data/processed/`. This means I can always re-run analysis
    from scratch and trust it.
 2. **One naming convention, everywhere.** See `00_admin/CONVENTIONS.md`. Every coupon photo,
