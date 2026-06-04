@@ -1,14 +1,14 @@
 # ImageJ Measurement Notes
 
-ImageJ is how I turn coupon photos into numbers. The whole point is **repeatability** — every
+ImageJ is how I turn coupon photos into numbers. The whole point is **repeatability.** Every
 coupon measured the exact same way, or the comparison is meaningless.
 
-## Color (mean intensity) — the core measurement
+## Color (mean intensity): the core measurement
 
 1. Open the standardized coupon photo (`04_images/coupons/<id>_face_post.jpg`).
 2. **Image → Type → 8-bit** (converts to grayscale so I get one intensity number).
 3. Select a fixed-size rectangle on a clean part of the coupon face. Keep the selection size
-   identical across all coupons — make a note of the pixel dimensions and reuse them.
+   identical across all coupons, make a note of the pixel dimensions and reuse them.
 4. **Analyze → Measure** (or press `M`). Read the **Mean** value.
 5. Record that Mean in `measurements.csv` under `mean_gray_intensity`. Save the raw export to
    `03_data/raw/imagej_<id>.csv`.
@@ -18,9 +18,7 @@ Lower mean = darker = more dye uptake.
 ## Contact angle (wettability)
 
 1. Open the side-on droplet photo (`04_images/contact-angle/<id>_angle_post.jpg`).
-2. Use the **Angle tool**: click along the surface, then the vertex at the droplet edge, then
-   up the tangent of the droplet. Read the angle.
-3. There's also a "Contact Angle" plugin if I want to install it — more rigorous, optional.
+2. Use the **Contact Angle Tool**: Points along the curve of the droplet, read Theta E value.
 4. Record under `contact_angle_deg`.
 
 ## Repeatability checklist (tape this up)
