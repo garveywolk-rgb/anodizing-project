@@ -1,15 +1,15 @@
 # Lab Notebook
 
 One file per session here, named `YYYY-MM-DD_session-N.md`. Copy the template below.
-Record what I *did*, what I *observed*, and what I *think* it means — especially what went
-wrong. This folder is where my best interview answers come from.
+Record what I *did*, what I *observed*, and what I *think* it means, especially what went
+wrong.
 
 ---
 
 ## TEMPLATE (copy this)
 
 ```
-### YYYY-MM-DD — Session N
+### YYYY-MM-DD - Session N
 
 **Goal of session:**
 
@@ -30,7 +30,7 @@ wrong. This folder is where my best interview answers come from.
 
 ## EXAMPLE (delete once I have real entries)
 
-### 2026-07-11 — Session 1
+### 2026-07-11 - Session 1
 
 **Goal:** First live run. Get the B0 baseline working safely and repeatably. Pretty parts are
 NOT the goal today.
@@ -41,7 +41,7 @@ NOT the goal today.
 
 **What happened:** Raised voltage to ~15 V; current settled ~0.4 A. Held 45 min.
 
-**Problems / surprises:** B0-1 lighter near the top — I think it wasn't fully submerged the
+**Problems / surprises:** B0-1 lighter near the top. I think it wasn't fully submerged the
 whole time as the bath level dropped. B0-2 better after topping up.
 
 **What I changed:** Marked a fill line on the tub; will check level mid-run from now on.
