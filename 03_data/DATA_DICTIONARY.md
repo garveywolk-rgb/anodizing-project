@@ -33,7 +33,7 @@ measure. Blank cells get filled in as the project progresses.
 | observations        | text    | Plain-language notes; cross-ref the notebook entry            |
 
 ## Notes
-- **Don't delete the seed rows** — they encode the planned matrix. Fill them in; add rows for
+- **Don't delete the seed rows** : they encode the planned matrix. Fill them in; add rows for
   any stretch batches.
 - `mean_gray_intensity`: lower = darker = more dye uptake (loosely, thicker/more-porous oxide).
 - Keep raw ImageJ exports in `03_data/raw/` and transcribe the summary number here.
