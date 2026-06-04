@@ -1,6 +1,6 @@
 # Naming Conventions
 
-One convention, used everywhere — data rows, photo filenames, notebook entries. The coupon ID
+One convention, used everywhere: data rows, photo filenames, notebook entries. The coupon ID
 is the thread that ties a physical piece of aluminum to its data and its pictures.
 
 ## Coupon ID
